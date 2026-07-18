@@ -145,13 +145,14 @@ npm run dev
 
 ## 📸 Screenshots
 
-_Add screenshots of:_
+<img width="957" height="503" alt="image" src="https://github.com/user-attachments/assets/bb969123-8ffe-4380-8b79-d95f1e39946c" />
 
-- Landing Page
-- Dashboard
-- AI Analysis
-- Threat Simulation
-- Attack Flow
+<img width="959" height="511" alt="image" src="https://github.com/user-attachments/assets/abcc31b8-1a58-43f6-aeba-dd6cf3567ce4" />
+
+<img width="958" height="479" alt="image" src="https://github.com/user-attachments/assets/2b650139-3267-407f-bd8f-5d2d4cd691af" />
+
+<img width="233" height="372" alt="image" src="https://github.com/user-attachments/assets/6df2e655-7851-42d9-96f0-193262edd38a" />
+
 
 ---
 
