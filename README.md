@@ -2,8 +2,6 @@
 
 An AI-powered Cyber Resilience Platform that helps detect, analyze, and respond to cyber threats in real time.
 
-Built for the ET AI Hackathon 2026.
-
 ---
 
 ## 🚀 Live Demo
